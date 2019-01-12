@@ -18,5 +18,3 @@ def assign_rooms(arr)
   end
   return new_array_room
 end
-
-  
